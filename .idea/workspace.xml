@@ -1,24 +1,99 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="cc46d850-a26e-465d-842a-d3787b691cb5" name="변경" comment="">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_beginner.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BooleanEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ifexample/ConditionEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ifexample/ConditionEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ifexample/ConditionEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ifexample/ConditionEx4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ifexample/ConditionEx5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ifexample/ConditionEx6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ifexample/ConditionEx7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ifexample/ConditionEx8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ifexample/ConditionEx9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ifexample/IfExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ifexample/Ifexample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ifexample/Ifexample3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ifexample/SwitchCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ifexample/SwitchCase2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ifexample/SwitchCase3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ifexample/SwitchCase4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ifexample/SwitchCase5.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/CharacterEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/CharacterEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/CharacterEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/Constant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/DoubleEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/ExplicitConversion1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/ExplicitConversion2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/ImplicitCOnversion2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/ImplicitConversion1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/OperationAssignment1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/OperationAssignment2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/OperationAssignment3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/OperationAssignment4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/OperationAssignment5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/OperationAssignment6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/OperationEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/OperationEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/OperationEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/OperationEx4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/OperationEx5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/TypeInference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/VarAssignment1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/VarAssignment2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/VarAssignment3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/VarAssignment4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/Variable1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hello/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/BreakEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/ContinueEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/ForEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/ForEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/LoopEx4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/LoopEx5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/LoopEx6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/While.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/WhileEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/loopEs2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/loopEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/loopEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/whileEx1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8,
-  "fromUser": false
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3HkbKpD48vnGa1IV95zNj7t7gMX" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
@@ -26,13 +101,154 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "/Users/dgsw14/Desktop/Java_beginner/src/Main.java",
     "settings.editor.selected.configurable": "preferences.lookFeel",
-    "vue.rearranger.settings.migration": "true"
+    "vue.rearranger.settings.migration": "true",
+    "애플리케이션.BooleanEx.executor": "Run",
+    "애플리케이션.BreakEx.executor": "Run",
+    "애플리케이션.CharacterEx1.executor": "Run",
+    "애플리케이션.CharacterEx2.executor": "Run",
+    "애플리케이션.CharacterEx3.executor": "Run",
+    "애플리케이션.ConditionEx1.executor": "Run",
+    "애플리케이션.ConditionEx2.executor": "Run",
+    "애플리케이션.ConditionEx3.executor": "Run",
+    "애플리케이션.ConditionEx4.executor": "Run",
+    "애플리케이션.ConditionEx5.executor": "Run",
+    "애플리케이션.ConditionEx6.executor": "Run",
+    "애플리케이션.ConditionEx7.executor": "Run",
+    "애플리케이션.ConditionEx8.executor": "Run",
+    "애플리케이션.ConditionEx9.executor": "Run",
+    "애플리케이션.Constant.executor": "Run",
+    "애플리케이션.ContinueEx1.executor": "Run",
+    "애플리케이션.DoubleEx1.executor": "Run",
+    "애플리케이션.ExplicitConversion1.executor": "Run",
+    "애플리케이션.ForEx1.executor": "Run",
+    "애플리케이션.ForEx2.executor": "Run",
+    "애플리케이션.HelloWorld.executor": "Run",
+    "애플리케이션.IfExample1.executor": "Run",
+    "애플리케이션.Ifexample2.executor": "Run",
+    "애플리케이션.Ifexample3.executor": "Run",
+    "애플리케이션.ImplicitCOnversion2.executor": "Run",
+    "애플리케이션.ImplicitConversion1.executor": "Run",
+    "애플리케이션.LoopEx4.executor": "Run",
+    "애플리케이션.LoopEx5.executor": "Run",
+    "애플리케이션.LoopEx6.executor": "Run",
+    "애플리케이션.Main.executor": "Run",
+    "애플리케이션.OperationAssignment1.executor": "Run",
+    "애플리케이션.OperationAssignment2.executor": "Run",
+    "애플리케이션.OperationAssignment3.executor": "Run",
+    "애플리케이션.OperationAssignment4.executor": "Run",
+    "애플리케이션.OperationAssignment5.executor": "Run",
+    "애플리케이션.OperationAssignment6.executor": "Run",
+    "애플리케이션.OperationEx1.executor": "Run",
+    "애플리케이션.OperationEx2.executor": "Run",
+    "애플리케이션.OperationEx3.executor": "Run",
+    "애플리케이션.OperationEx4.executor": "Run",
+    "애플리케이션.OperationEx5.executor": "Run",
+    "애플리케이션.SwitchCase.executor": "Run",
+    "애플리케이션.SwitchCase2.executor": "Run",
+    "애플리케이션.SwitchCase4.executor": "Run",
+    "애플리케이션.SwitchCase5.executor": "Run",
+    "애플리케이션.TypeInference.executor": "Run",
+    "애플리케이션.VarAssignment1.executor": "Run",
+    "애플리케이션.VarAssignment2.executor": "Run",
+    "애플리케이션.VarAssignment3.executor": "Run",
+    "애플리케이션.VarAssignment4.executor": "Run",
+    "애플리케이션.Variable1.executor": "Run",
+    "애플리케이션.While.executor": "Run",
+    "애플리케이션.WhileEx2.executor": "Run",
+    "애플리케이션.loopEs2.executor": "Run",
+    "애플리케이션.loopEx1.executor": "Run",
+    "애플리케이션.loopEx3.executor": "Run",
+    "애플리케이션.while1.executor": "Run"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Constant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter2.Constant" />
+      <module name="Java_beginner" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExplicitConversion1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter2.ExplicitConversion1" />
+      <module name="Java_beginner" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImplicitCOnversion2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter2.ImplicitCOnversion2" />
+      <module name="Java_beginner" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImplicitConversion1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter2.ImplicitConversion1" />
+      <module name="Java_beginner" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VarAssignment4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter2.VarAssignment4" />
+      <module name="Java_beginner" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="애플리케이션.VarAssignment4" />
+        <item itemvalue="애플리케이션.ExplicitConversion1" />
+        <item itemvalue="애플리케이션.ImplicitCOnversion2" />
+        <item itemvalue="애플리케이션.ImplicitConversion1" />
+        <item itemvalue="애플리케이션.Constant" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -48,19 +264,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1786414952633</updated>
-      <workItem from="1786414953820" duration="1000" />
+      <workItem from="1786414953820" duration="4260000" />
+      <workItem from="1786595713863" duration="5703000" />
+      <workItem from="1786703551025" duration="34624000" />
     </task>
     <servers />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
