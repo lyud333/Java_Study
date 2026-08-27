@@ -5,71 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc46d850-a26e-465d-842a-d3787b691cb5" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_beginner.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BooleanEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ifexample/ConditionEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ifexample/ConditionEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ifexample/ConditionEx3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ifexample/ConditionEx4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ifexample/ConditionEx5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ifexample/ConditionEx6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ifexample/ConditionEx7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ifexample/ConditionEx8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ifexample/ConditionEx9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ifexample/IfExample1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ifexample/Ifexample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ifexample/Ifexample3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ifexample/SwitchCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ifexample/SwitchCase2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ifexample/SwitchCase3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ifexample/SwitchCase4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ifexample/SwitchCase5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter2/CharacterEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter2/CharacterEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter2/CharacterEx3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter2/Constant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter2/DoubleEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter2/ExplicitConversion1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter2/ExplicitConversion2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter2/ImplicitCOnversion2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter2/ImplicitConversion1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter2/OperationAssignment1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter2/OperationAssignment2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter2/OperationAssignment3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter2/OperationAssignment4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter2/OperationAssignment5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter2/OperationAssignment6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter2/OperationEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter2/OperationEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter2/OperationEx3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter2/OperationEx4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter2/OperationEx5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter2/TypeInference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter2/VarAssignment1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter2/VarAssignment2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter2/VarAssignment3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter2/VarAssignment4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter2/Variable1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hello/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/BreakEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/ContinueEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/ForEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/ForEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/LoopEx4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/LoopEx5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/LoopEx6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/While.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/WhileEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/loopEs2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/loopEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/loopEx3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/whileEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ArrayCopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ArrayEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ArrayEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ArrayEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ArrayEx4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ArrayTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ArrayTest3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ArrayTest4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/CharArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/Quiz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,8 +61,17 @@
     "onboarding.tips.debug.path": "/Users/dgsw14/Desktop/Java_beginner/src/Main.java",
     "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true",
+    "애플리케이션.ArrayCopy.executor": "Run",
+    "애플리케이션.ArrayEx1.executor": "Run",
+    "애플리케이션.ArrayEx2.executor": "Run",
+    "애플리케이션.ArrayEx3.executor": "Run",
+    "애플리케이션.ArrayEx4.executor": "Run",
+    "애플리케이션.ArrayTest.executor": "Run",
+    "애플리케이션.ArrayTest2.executor": "Run",
+    "애플리케이션.ArrayTest4.executor": "Run",
     "애플리케이션.BooleanEx.executor": "Run",
     "애플리케이션.BreakEx.executor": "Run",
+    "애플리케이션.CharArray.executor": "Run",
     "애플리케이션.CharacterEx1.executor": "Run",
     "애플리케이션.CharacterEx2.executor": "Run",
     "애플리케이션.CharacterEx3.executor": "Run",
@@ -155,6 +111,7 @@
     "애플리케이션.OperationEx3.executor": "Run",
     "애플리케이션.OperationEx4.executor": "Run",
     "애플리케이션.OperationEx5.executor": "Run",
+    "애플리케이션.Quiz.executor": "Run",
     "애플리케이션.SwitchCase.executor": "Run",
     "애플리케이션.SwitchCase2.executor": "Run",
     "애플리케이션.SwitchCase4.executor": "Run",
@@ -266,7 +223,7 @@
       <updated>1786414952633</updated>
       <workItem from="1786414953820" duration="4260000" />
       <workItem from="1786595713863" duration="5703000" />
-      <workItem from="1786703551025" duration="34624000" />
+      <workItem from="1786703551025" duration="45603000" />
     </task>
     <servers />
   </component>
