@@ -5,17 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc46d850-a26e-465d-842a-d3787b691cb5" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/array/ArrayCopy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/ArrayEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/ArrayEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/ArrayEx3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/ArrayEx4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/ArrayTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/ArrayTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/ArrayTest3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/ArrayTest4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/CharArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/Quiz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ArrayEx5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ArrayEx6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ArrayEx7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,6 +58,9 @@
     "애플리케이션.ArrayEx2.executor": "Run",
     "애플리케이션.ArrayEx3.executor": "Run",
     "애플리케이션.ArrayEx4.executor": "Run",
+    "애플리케이션.ArrayEx5.executor": "Run",
+    "애플리케이션.ArrayEx6.executor": "Run",
+    "애플리케이션.ArrayEx7.executor": "Run",
     "애플리케이션.ArrayTest.executor": "Run",
     "애플리케이션.ArrayTest2.executor": "Run",
     "애플리케이션.ArrayTest4.executor": "Run",
@@ -198,11 +193,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.Constant" />
         <item itemvalue="애플리케이션.VarAssignment4" />
         <item itemvalue="애플리케이션.ExplicitConversion1" />
         <item itemvalue="애플리케이션.ImplicitCOnversion2" />
         <item itemvalue="애플리케이션.ImplicitConversion1" />
-        <item itemvalue="애플리케이션.Constant" />
       </list>
     </recent_temporary>
   </component>
@@ -223,7 +218,8 @@
       <updated>1786414952633</updated>
       <workItem from="1786414953820" duration="4260000" />
       <workItem from="1786595713863" duration="5703000" />
-      <workItem from="1786703551025" duration="45603000" />
+      <workItem from="1786703551025" duration="55215000" />
+      <workItem from="1788262729010" duration="9772000" />
     </task>
     <servers />
   </component>
