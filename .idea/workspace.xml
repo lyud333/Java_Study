@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc46d850-a26e-465d-842a-d3787b691cb5" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/classpart/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classpart/FunctionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constuctor/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constuctor/PersonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hiding/company/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reference/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reference/StudentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reference/Subject.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classpart/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classpart/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,6 +90,7 @@
     "애플리케이션.ExplicitConversion1.executor": "Run",
     "애플리케이션.ForEx1.executor": "Run",
     "애플리케이션.ForEx2.executor": "Run",
+    "애플리케이션.FunctionTest.executor": "Run",
     "애플리케이션.HelloWorld.executor": "Run",
     "애플리케이션.IfExample1.executor": "Run",
     "애플리케이션.Ifexample2.executor": "Run",
@@ -104,7 +112,10 @@
     "애플리케이션.OperationEx3.executor": "Run",
     "애플리케이션.OperationEx4.executor": "Run",
     "애플리케이션.OperationEx5.executor": "Run",
+    "애플리케이션.PersonTest.executor": "Run",
     "애플리케이션.Quiz.executor": "Run",
+    "애플리케이션.Student.executor": "Run",
+    "애플리케이션.StudentTest.executor": "Run",
     "애플리케이션.SwitchCase.executor": "Run",
     "애플리케이션.SwitchCase2.executor": "Run",
     "애플리케이션.SwitchCase4.executor": "Run",
@@ -217,7 +228,8 @@
       <workItem from="1786414953820" duration="4260000" />
       <workItem from="1786595713863" duration="5703000" />
       <workItem from="1786703551025" duration="55215000" />
-      <workItem from="1788262729010" duration="14223000" />
+      <workItem from="1788262729010" duration="18596000" />
+      <workItem from="1789015119497" duration="5663000" />
     </task>
     <servers />
   </component>
