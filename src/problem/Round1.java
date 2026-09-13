@@ -1,7 +1,5 @@
 package problem;
 
-import java.nio.file.SimpleFileVisitor;
-
 public class Round1 {
     public static void main(String[] args) {
         int age = 17;
