@@ -13,8 +13,10 @@ public class Round17 {
         String[] subName = {"국어", "영어", "수학"};
 
         for (int i=0;i<subName.length;i++){
-            int sum=0;
-            for (int j=0;j<score.length;j++) sum+=score[j][i];
+            int sum =0;
+            for (int j=0;j<score.length;j++){
+                sum+=score[j][i];
+            }
             System.out.printf("%s: %.1f%n",subName[i],(double)sum/score.length);
         }
     }

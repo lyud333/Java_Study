@@ -6,13 +6,18 @@
   <component name="ChangeListManager">
     <list default="true" id="cc46d850-a26e-465d-842a-d3787b691cb5" name="변경" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem/Round10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem/Round10.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/problem/Round11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem/Round11.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/problem/Round12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem/Round12.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/problem/Round13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem/Round13.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/problem/Round14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem/Round14.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/problem/Round16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem/Round16.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/problem/Round17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem/Round17.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem/Round18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem/Round18.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem/Round19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem/Round19.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem/Round20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem/Round20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem/Round5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem/Round5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem/Round6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem/Round6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem/Round7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem/Round7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/problem/Round8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem/Round8.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/problem/Round9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem/Round9.java" afterDir="false" />
     </list>
@@ -123,8 +128,10 @@
     "애플리케이션.Round14.executor": "Run",
     "애플리케이션.Round16.executor": "Run",
     "애플리케이션.Round17.executor": "Run",
+    "애플리케이션.Round18.executor": "Run",
     "애플리케이션.Round19.executor": "Run",
     "애플리케이션.Round2.executor": "Run",
+    "애플리케이션.Round20.executor": "Run",
     "애플리케이션.Round3.executor": "Run",
     "애플리케이션.Round4.executor": "Run",
     "애플리케이션.Round5.executor": "Run",
@@ -249,7 +256,7 @@
       <workItem from="1788262729010" duration="18596000" />
       <workItem from="1789015119497" duration="8006000" />
       <workItem from="1789273148406" duration="51000" />
-      <workItem from="1789275070163" duration="27394000" />
+      <workItem from="1789275070163" duration="35695000" />
     </task>
     <servers />
   </component>
