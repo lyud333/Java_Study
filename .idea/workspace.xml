@@ -6,15 +6,19 @@
   <component name="ChangeListManager">
     <list default="true" id="cc46d850-a26e-465d-842a-d3787b691cb5" name="변경" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem/Round1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem/Round1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem/Round10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem/Round10.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/problem/Round11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem/Round11.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/problem/Round12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem/Round12.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/problem/Round13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem/Round13.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/problem/Round14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem/Round14.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/problem/Round16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem/Round16.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem/Round17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem/Round17.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/problem/Round18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem/Round18.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/problem/Round19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem/Round19.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem/Round2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem/Round2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/problem/Round20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem/Round20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem/Round3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem/Round3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem/Round4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem/Round4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/problem/Round5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem/Round5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/problem/Round6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem/Round6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/problem/Round7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem/Round7.java" afterDir="false" />
@@ -62,7 +66,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "/Users/dgsw14/Desktop/Java_beginner/src/Main.java",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "settings.editor.selected.configurable": "editor.preferences.import",
     "vue.rearranger.settings.migration": "true",
     "애플리케이션.ArrayCopy.executor": "Run",
     "애플리케이션.ArrayEx1.executor": "Run",
@@ -256,11 +260,15 @@
       <workItem from="1788262729010" duration="18596000" />
       <workItem from="1789015119497" duration="8006000" />
       <workItem from="1789273148406" duration="51000" />
-      <workItem from="1789275070163" duration="35695000" />
+      <workItem from="1789275070163" duration="40554000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
