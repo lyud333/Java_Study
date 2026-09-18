@@ -13,7 +13,7 @@ public class Round17 {
         String[] subName = {"국어", "영어", "수학"};
 
         for (int i=0;i<subName.length;i++){
-            int sum =0;
+            int sum=0;
             for (int j=0;j<score.length;j++){
                 sum+=score[j][i];
             }
