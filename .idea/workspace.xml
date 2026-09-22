@@ -5,35 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc46d850-a26e-465d-842a-d3787b691cb5" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/encapsulation/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/encapsulation/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/encapsulation/PhoneStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hiding/company/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hiding/company/Developer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hiding/company/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hiding/company/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hiding/company/StudentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/encapsulation/PhoneStoreTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem/Round1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem/Round1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem/Round10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem/Round10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem/Round11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem/Round11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem/Round12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem/Round12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem/Round13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem/Round13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem/Round14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem/Round14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem/Round16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem/Round16.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem/Round17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem/Round17.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem/Round18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem/Round18.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem/Round19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem/Round19.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem/Round2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem/Round2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem/Round20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem/Round20.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem/Round21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem/Round21.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem/Round3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem/Round3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem/Round4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem/Round4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem/Round5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem/Round5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem/Round6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem/Round6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem/Round7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem/Round7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem/Round8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem/Round8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem/Round9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem/Round9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/encapsulation/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/encapsulation/Phone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/encapsulation/PhoneStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/encapsulation/PhoneStore.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -274,6 +249,7 @@
       <workItem from="1789275070163" duration="47287000" />
       <workItem from="1789619616024" duration="289000" />
       <workItem from="1789623748976" duration="2710000" />
+      <workItem from="1789627654506" duration="4501000" />
     </task>
     <servers />
   </component>

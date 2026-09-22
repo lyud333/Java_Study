@@ -4,7 +4,7 @@ public class Phone {
     private String model;
     private double price;
 
-    public static void main(String model, double price) {
+    public Phone(String model, double price) {
         this.model=model;
         this.price=price;
     }
