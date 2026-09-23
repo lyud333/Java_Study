@@ -6,6 +6,10 @@ public class Employee {
     String email = "soo@company.com";
     private int salary = 5000000;
 
+    public int getSalary(){
+        return salary;
+    }
+
     public void printInfo(){
         System.out.println(name);
         System.out.println(department);

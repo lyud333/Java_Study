@@ -5,10 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc46d850-a26e-465d-842a-d3787b691cb5" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/encapsulation/PhoneStoreTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thisdemo/CallAnotherConst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thisdemo/ReturnItself.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thisdemo/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thisdemo/ThisExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/encapsulation/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/encapsulation/Phone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/encapsulation/PhoneStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/encapsulation/PhoneStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hiding/company/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hiding/company/Developer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hiding/company/Developer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hiding/company/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hiding/company/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hiding/company/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hiding/company/Manager.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +55,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/dgsw14/Desktop/Java_beginner/src/Main.java&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/dgsw14/Java_beginner/src/Main.java&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.import&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
     &quot;애플리케이션.ArrayCopy.executor&quot;: &quot;Run&quot;,
@@ -66,6 +71,7 @@
     &quot;애플리케이션.ArrayTest4.executor&quot;: &quot;Run&quot;,
     &quot;애플리케이션.BooleanEx.executor&quot;: &quot;Run&quot;,
     &quot;애플리케이션.BreakEx.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.CallAnotherConst.executor&quot;: &quot;Run&quot;,
     &quot;애플리케이션.CharArray.executor&quot;: &quot;Run&quot;,
     &quot;애플리케이션.CharacterEx1.executor&quot;: &quot;Run&quot;,
     &quot;애플리케이션.CharacterEx2.executor&quot;: &quot;Run&quot;,
@@ -81,6 +87,7 @@
     &quot;애플리케이션.ConditionEx9.executor&quot;: &quot;Run&quot;,
     &quot;애플리케이션.Constant.executor&quot;: &quot;Run&quot;,
     &quot;애플리케이션.ContinueEx1.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Customer.executor&quot;: &quot;Run&quot;,
     &quot;애플리케이션.DoubleEx1.executor&quot;: &quot;Run&quot;,
     &quot;애플리케이션.ExplicitConversion1.executor&quot;: &quot;Run&quot;,
     &quot;애플리케이션.ForEx1.executor&quot;: &quot;Run&quot;,
@@ -96,6 +103,7 @@
     &quot;애플리케이션.LoopEx5.executor&quot;: &quot;Run&quot;,
     &quot;애플리케이션.LoopEx6.executor&quot;: &quot;Run&quot;,
     &quot;애플리케이션.Main.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Manager.executor&quot;: &quot;Run&quot;,
     &quot;애플리케이션.OperationAssignment1.executor&quot;: &quot;Run&quot;,
     &quot;애플리케이션.OperationAssignment2.executor&quot;: &quot;Run&quot;,
     &quot;애플리케이션.OperationAssignment3.executor&quot;: &quot;Run&quot;,
@@ -109,6 +117,7 @@
     &quot;애플리케이션.OperationEx5.executor&quot;: &quot;Run&quot;,
     &quot;애플리케이션.PersonTest.executor&quot;: &quot;Run&quot;,
     &quot;애플리케이션.Quiz.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.ReturnItself.executor&quot;: &quot;Run&quot;,
     &quot;애플리케이션.Round1.executor&quot;: &quot;Run&quot;,
     &quot;애플리케이션.Round10.executor&quot;: &quot;Run&quot;,
     &quot;애플리케이션.Round11.executor&quot;: &quot;Run&quot;,
@@ -135,6 +144,7 @@
     &quot;애플리케이션.SwitchCase2.executor&quot;: &quot;Run&quot;,
     &quot;애플리케이션.SwitchCase4.executor&quot;: &quot;Run&quot;,
     &quot;애플리케이션.SwitchCase5.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.ThisExample.executor&quot;: &quot;Run&quot;,
     &quot;애플리케이션.TypeInference.executor&quot;: &quot;Run&quot;,
     &quot;애플리케이션.VarAssignment1.executor&quot;: &quot;Run&quot;,
     &quot;애플리케이션.VarAssignment2.executor&quot;: &quot;Run&quot;,
@@ -189,12 +199,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ImplicitConversion1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter2.ImplicitConversion1" />
+    <configuration name="ThisExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thisdemo.ThisExample" />
       <module name="Java_beginner" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter2.*" />
+          <option name="PATTERN" value="thisdemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -217,11 +227,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.ThisExample" />
         <item itemvalue="애플리케이션.Constant" />
         <item itemvalue="애플리케이션.VarAssignment4" />
         <item itemvalue="애플리케이션.ExplicitConversion1" />
         <item itemvalue="애플리케이션.ImplicitCOnversion2" />
-        <item itemvalue="애플리케이션.ImplicitConversion1" />
       </list>
     </recent_temporary>
   </component>
@@ -249,7 +259,7 @@
       <workItem from="1789275070163" duration="47287000" />
       <workItem from="1789619616024" duration="289000" />
       <workItem from="1789623748976" duration="2710000" />
-      <workItem from="1789627654506" duration="4501000" />
+      <workItem from="1789627654506" duration="13387000" />
     </task>
     <servers />
   </component>

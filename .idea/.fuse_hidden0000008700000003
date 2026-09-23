@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cc46d850-a26e-465d-842a-d3787b691cb5" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/src/thisdemo/CallAnotherConst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thisdemo/ReturnItself.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thisdemo/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thisdemo/ThisExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hiding/company/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hiding/company/Developer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hiding/company/Developer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hiding/company/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hiding/company/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hiding/company/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hiding/company/Manager.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3HkbKpD48vnGa1IV95zNj7t7gMX" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/Users/dgsw14/Desktop/Java_beginner/src/Main.java",
+    "settings.editor.selected.configurable": "editor.preferences.import",
+    "vue.rearranger.settings.migration": "true",
+    "애플리케이션.ArrayCopy.executor": "Run",
+    "애플리케이션.ArrayEx1.executor": "Run",
+    "애플리케이션.ArrayEx2.executor": "Run",
+    "애플리케이션.ArrayEx3.executor": "Run",
+    "애플리케이션.ArrayEx4.executor": "Run",
+    "애플리케이션.ArrayEx5.executor": "Run",
+    "애플리케이션.ArrayEx6.executor": "Run",
+    "애플리케이션.ArrayEx7.executor": "Run",
+    "애플리케이션.ArrayTest.executor": "Run",
+    "애플리케이션.ArrayTest2.executor": "Run",
+    "애플리케이션.ArrayTest4.executor": "Run",
+    "애플리케이션.BooleanEx.executor": "Run",
+    "애플리케이션.BreakEx.executor": "Run",
+    "애플리케이션.CallAnotherConst.executor": "Run",
+    "애플리케이션.CharArray.executor": "Run",
+    "애플리케이션.CharacterEx1.executor": "Run",
+    "애플리케이션.CharacterEx2.executor": "Run",
+    "애플리케이션.CharacterEx3.executor": "Run",
+    "애플리케이션.ConditionEx1.executor": "Run",
+    "애플리케이션.ConditionEx2.executor": "Run",
+    "애플리케이션.ConditionEx3.executor": "Run",
+    "애플리케이션.ConditionEx4.executor": "Run",
+    "애플리케이션.ConditionEx5.executor": "Run",
+    "애플리케이션.ConditionEx6.executor": "Run",
+    "애플리케이션.ConditionEx7.executor": "Run",
+    "애플리케이션.ConditionEx8.executor": "Run",
+    "애플리케이션.ConditionEx9.executor": "Run",
+    "애플리케이션.Constant.executor": "Run",
+    "애플리케이션.ContinueEx1.executor": "Run",
+    "애플리케이션.Customer.executor": "Run",
+    "애플리케이션.DoubleEx1.executor": "Run",
+    "애플리케이션.ExplicitConversion1.executor": "Run",
+    "애플리케이션.ForEx1.executor": "Run",
+    "애플리케이션.ForEx2.executor": "Run",
+    "애플리케이션.FunctionTest.executor": "Run",
+    "애플리케이션.HelloWorld.executor": "Run",
+    "애플리케이션.IfExample1.executor": "Run",
+    "애플리케이션.Ifexample2.executor": "Run",
+    "애플리케이션.Ifexample3.executor": "Run",
+    "애플리케이션.ImplicitCOnversion2.executor": "Run",
+    "애플리케이션.ImplicitConversion1.executor": "Run",
+    "애플리케이션.LoopEx4.executor": "Run",
+    "애플리케이션.LoopEx5.executor": "Run",
+    "애플리케이션.LoopEx6.executor": "Run",
+    "애플리케이션.Main.executor": "Run",
+    "애플리케이션.Manager.executor": "Run",
+    "애플리케이션.OperationAssignment1.executor": "Run",
+    "애플리케이션.OperationAssignment2.executor": "Run",
+    "애플리케이션.OperationAssignment3.executor": "Run",
+    "애플리케이션.OperationAssignment4.executor": "Run",
+    "애플리케이션.OperationAssignment5.executor": "Run",
+    "애플리케이션.OperationAssignment6.executor": "Run",
+    "애플리케이션.OperationEx1.executor": "Run",
+    "애플리케이션.OperationEx2.executor": "Run",
+    "애플리케이션.OperationEx3.executor": "Run",
+    "애플리케이션.OperationEx4.executor": "Run",
+    "애플리케이션.OperationEx5.executor": "Run",
+    "애플리케이션.PersonTest.executor": "Run",
+    "애플리케이션.Quiz.executor": "Run",
+    "애플리케이션.ReturnItself.executor": "Run",
+    "애플리케이션.Round1.executor": "Run",
+    "애플리케이션.Round10.executor": "Run",
+    "애플리케이션.Round11.executor": "Run",
+    "애플리케이션.Round12.executor": "Run",
+    "애플리케이션.Round13.executor": "Run",
+    "애플리케이션.Round14.executor": "Run",
+    "애플리케이션.Round16.executor": "Run",
+    "애플리케이션.Round17.executor": "Run",
+    "애플리케이션.Round18.executor": "Run",
+    "애플리케이션.Round19.executor": "Run",
+    "애플리케이션.Round2.executor": "Run",
+    "애플리케이션.Round20.executor": "Run",
+    "애플리케이션.Round21.executor": "Run",
+    "애플리케이션.Round3.executor": "Run",
+    "애플리케이션.Round4.executor": "Run",
+    "애플리케이션.Round5.executor": "Run",
+    "애플리케이션.Round6.executor": "Run",
+    "애플리케이션.Round7.executor": "Run",
+    "애플리케이션.Round8.executor": "Run",
+    "애플리케이션.Round9.executor": "Run",
+    "애플리케이션.Student.executor": "Run",
+    "애플리케이션.StudentTest.executor": "Run",
+    "애플리케이션.SwitchCase.executor": "Run",
+    "애플리케이션.SwitchCase2.executor": "Run",
+    "애플리케이션.SwitchCase4.executor": "Run",
+    "애플리케이션.SwitchCase5.executor": "Run",
+    "애플리케이션.ThisExample.executor": "Run",
+    "애플리케이션.TypeInference.executor": "Run",
+    "애플리케이션.VarAssignment1.executor": "Run",
+    "애플리케이션.VarAssignment2.executor": "Run",
+    "애플리케이션.VarAssignment3.executor": "Run",
+    "애플리케이션.VarAssignment4.executor": "Run",
+    "애플리케이션.Variable1.executor": "Run",
+    "애플리케이션.While.executor": "Run",
+    "애플리케이션.WhileEx2.executor": "Run",
+    "애플리케이션.loopEs2.executor": "Run",
+    "애플리케이션.loopEx1.executor": "Run",
+    "애플리케이션.loopEx3.executor": "Run",
+    "애플리케이션.while1.executor": "Run"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Constant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter2.Constant" />
+      <module name="Java_beginner" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExplicitConversion1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter2.ExplicitConversion1" />
+      <module name="Java_beginner" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImplicitCOnversion2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter2.ImplicitCOnversion2" />
+      <module name="Java_beginner" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThisExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thisdemo.ThisExample" />
+      <module name="Java_beginner" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="thisdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VarAssignment4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter2.VarAssignment4" />
+      <module name="Java_beginner" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="애플리케이션.ThisExample" />
+        <item itemvalue="애플리케이션.Constant" />
+        <item itemvalue="애플리케이션.VarAssignment4" />
+        <item itemvalue="애플리케이션.ExplicitConversion1" />
+        <item itemvalue="애플리케이션.ImplicitCOnversion2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.32098.37" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.32098.37" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="cc46d850-a26e-465d-842a-d3787b691cb5" name="변경" comment="" />
+      <created>1786414952633</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1786414952633</updated>
+      <workItem from="1786414953820" duration="4260000" />
+      <workItem from="1786595713863" duration="5703000" />
+      <workItem from="1786703551025" duration="55215000" />
+      <workItem from="1788262729010" duration="18596000" />
+      <workItem from="1789015119497" duration="8006000" />
+      <workItem from="1789273148406" duration="51000" />
+      <workItem from="1789275070163" duration="47287000" />
+      <workItem from="1789619616024" duration="289000" />
+      <workItem from="1789623748976" duration="2710000" />
+      <workItem from="1789627654506" duration="13387000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

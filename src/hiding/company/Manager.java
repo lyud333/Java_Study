@@ -7,6 +7,6 @@ public class Manager {
         System.out.println(emp.name);
         System.out.println(emp.department);
         System.out.println(emp.email);
-        System.out.println(emp.salary);
+        System.out.println(emp.getSalary());
     }
 }
