@@ -5,14 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc46d850-a26e-465d-842a-d3787b691cb5" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/cooperation/Bus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cooperation/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cooperation/Subway.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cooperation/TakeTrans.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/staticdemo/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/staticdemo/StudentTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/staticdemo/StudentTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookStore/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shopping/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/singleton/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/singleton/CompanyTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/staticdemo/StudentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/staticdemo/StudentTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,6 +113,7 @@
     "애플리케이션.OperationEx3.executor": "Run",
     "애플리케이션.OperationEx4.executor": "Run",
     "애플리케이션.OperationEx5.executor": "Run",
+    "애플리케이션.OrderTest.executor": "Run",
     "애플리케이션.PersonTest.executor": "Run",
     "애플리케이션.Quiz.executor": "Run",
     "애플리케이션.ReturnItself.executor": "Run",
@@ -159,7 +158,7 @@
     "애플리케이션.while1.executor": "Run"
   }
 }]]></component>
-  <component name="RunManager" selected="애플리케이션.Constant">
+  <component name="RunManager">
     <configuration name="Constant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter2.Constant" />
       <module name="Java_beginner" />
@@ -260,7 +259,7 @@
       <workItem from="1789619616024" duration="289000" />
       <workItem from="1789623748976" duration="2710000" />
       <workItem from="1789627654506" duration="13387000" />
-      <workItem from="1790139657857" duration="7569000" />
+      <workItem from="1790139657857" duration="14435000" />
     </task>
     <servers />
   </component>
