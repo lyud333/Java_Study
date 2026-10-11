@@ -9,16 +9,21 @@ public class Problem2 {
         int a = sc.nextInt();
         int b = sc.nextInt();
         int c = sc.nextInt();
-        int max=0;
-        if(max>a){
-            max=a;
-        }
-        if(max>b){
+        int max=a;
+
+        if(max<b){
             max=b;
         }
-        if(max>c){
+        if(max<c){
             max=c;
         }
+        int g=b;
+        int min=c;
+        if (max>g&&g>min) g=b;
+        if (min>a) min=a;
+        if (min>b) min=b;
         System.out.println(max);
+        System.out.println(g);
+        System.out.println(min);
     }
 }
