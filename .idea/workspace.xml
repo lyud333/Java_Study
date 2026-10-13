@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc46d850-a26e-465d-842a-d3787b691cb5" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/car/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/car/CarFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/car/CarFactoryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/miugo/Problem6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/BookArray2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ObjectCopy1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ObjectCopy2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,6 +66,7 @@
     "애플리케이션.ArrayTest.executor": "Run",
     "애플리케이션.ArrayTest2.executor": "Run",
     "애플리케이션.ArrayTest4.executor": "Run",
+    "애플리케이션.BookArray2.executor": "Run",
     "애플리케이션.BooleanEx.executor": "Run",
     "애플리케이션.BreakEx.executor": "Run",
     "애플리케이션.CallAnotherConst.executor": "Run",
@@ -101,6 +102,8 @@
     "애플리케이션.LoopEx6.executor": "Run",
     "애플리케이션.Main.executor": "Run",
     "애플리케이션.Manager.executor": "Run",
+    "애플리케이션.ObjectCopy1.executor": "Run",
+    "애플리케이션.ObjectCopy2.executor": "Run",
     "애플리케이션.OperationAssignment1.executor": "Run",
     "애플리케이션.OperationAssignment2.executor": "Run",
     "애플리케이션.OperationAssignment3.executor": "Run",
@@ -265,7 +268,7 @@
       <workItem from="1789623748976" duration="2710000" />
       <workItem from="1789627654506" duration="13387000" />
       <workItem from="1790139657857" duration="21860000" />
-      <workItem from="1791693809124" duration="11140000" />
+      <workItem from="1791693809124" duration="15349000" />
     </task>
     <servers />
   </component>
