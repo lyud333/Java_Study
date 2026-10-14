@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc46d850-a26e-465d-842a-d3787b691cb5" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/array/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/BookArray2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/ObjectCopy1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/ObjectCopy2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/StudentTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -268,7 +266,7 @@
       <workItem from="1789623748976" duration="2710000" />
       <workItem from="1789627654506" duration="13387000" />
       <workItem from="1790139657857" duration="21860000" />
-      <workItem from="1791693809124" duration="15349000" />
+      <workItem from="1791693809124" duration="20501000" />
     </task>
     <servers />
   </component>
