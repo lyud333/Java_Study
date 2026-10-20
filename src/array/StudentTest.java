@@ -13,5 +13,16 @@ public class StudentTest {
         for (int i = 0; i < student.size(); i++) {
             student.get(i).showInfo();
         }
+        student.remove(0);
+        for (int i = 0; i < student.size(); i++) {
+            student.get(i).showInfo();
+        }
+        System.out.println(student.isEmpty());
+
+        student.removeAll(student);
+        for (int i = 0; i < student.size(); i++) {
+            student.get(i).showInfo();
+        }
+        System.out.println(student.isEmpty());
     }
 }
