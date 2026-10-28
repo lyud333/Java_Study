@@ -5,10 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc46d850-a26e-465d-842a-d3787b691cb5" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/miugo/class1025/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/miugo/class1025/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/miugo/class1025/problem7/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/miugo/class1025/problem7/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stream/inputStream/SystemInTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stream/ioTest/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stream/ioTest/CarStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stream/ioTest/IOex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stream/ioTest/IOex2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stream/ioTest/IOex3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stream/ioTest/IOex4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stream/others/ScannerTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -93,6 +97,10 @@
     &quot;애플리케이션.ForEx2.executor&quot;: &quot;Run&quot;,
     &quot;애플리케이션.FunctionTest.executor&quot;: &quot;Run&quot;,
     &quot;애플리케이션.HelloWorld.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.IOex1.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.IOex2.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.IOex3.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.IOex4.executor&quot;: &quot;Run&quot;,
     &quot;애플리케이션.IfExample1.executor&quot;: &quot;Run&quot;,
     &quot;애플리케이션.Ifexample2.executor&quot;: &quot;Run&quot;,
     &quot;애플리케이션.Ifexample3.executor&quot;: &quot;Run&quot;,
@@ -146,12 +154,14 @@
     &quot;애플리케이션.Round7.executor&quot;: &quot;Run&quot;,
     &quot;애플리케이션.Round8.executor&quot;: &quot;Run&quot;,
     &quot;애플리케이션.Round9.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.ScannerTest.executor&quot;: &quot;Run&quot;,
     &quot;애플리케이션.Student.executor&quot;: &quot;Run&quot;,
     &quot;애플리케이션.StudentTest.executor&quot;: &quot;Run&quot;,
     &quot;애플리케이션.SwitchCase.executor&quot;: &quot;Run&quot;,
     &quot;애플리케이션.SwitchCase2.executor&quot;: &quot;Run&quot;,
     &quot;애플리케이션.SwitchCase4.executor&quot;: &quot;Run&quot;,
     &quot;애플리케이션.SwitchCase5.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.SystemInTest.executor&quot;: &quot;Run&quot;,
     &quot;애플리케이션.ThisExample.executor&quot;: &quot;Run&quot;,
     &quot;애플리케이션.TypeInference.executor&quot;: &quot;Run&quot;,
     &quot;애플리케이션.VarAssignment1.executor&quot;: &quot;Run&quot;,
@@ -167,22 +177,15 @@
     &quot;애플리케이션.while1.executor&quot;: &quot;Run&quot;
   }
 }</component>
-  <component name="RunManager" selected="애플리케이션.Main">
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="stream" />
+      <recent name="stream.inputStream" />
+    </key>
+  </component>
+  <component name="RunManager" selected="애플리케이션.Constant">
     <configuration name="Constant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter2.Constant" />
-      <module name="Java_beginner" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ExplicitConversion1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter2.ExplicitConversion1" />
       <module name="Java_beginner" />
       <extension name="coverage">
         <pattern>
@@ -239,7 +242,6 @@
         <item itemvalue="애플리케이션.Constant" />
         <item itemvalue="애플리케이션.ThisExample" />
         <item itemvalue="애플리케이션.VarAssignment4" />
-        <item itemvalue="애플리케이션.ExplicitConversion1" />
       </list>
     </recent_temporary>
   </component>
@@ -272,12 +274,34 @@
       <workItem from="1791693809124" duration="25175000" />
       <workItem from="1792419679386" duration="4770000" />
       <workItem from="1792767285408" duration="1449000" />
-      <workItem from="1792905551112" duration="2980000" />
+      <workItem from="1792905551112" duration="4968000" />
+      <workItem from="1793066903664" duration="4613000" />
+      <workItem from="1793071710654" duration="1441000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/stream/ioTest/IOex2.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/stream/ioTest/IOex4.java</url>
+          <line>5</line>
+          <properties class="stream.ioTest.IOex4">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
