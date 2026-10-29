@@ -8,7 +8,7 @@ public class IOex2 {
         int[] nums = new int[10];
         for (int i = 0; i < 10; i++) {
             nums[i]=sc.nextInt();
-        }
+        }//jj
         for (int i = 0; i < 10; i++) {
             System.out.print(nums[i]+" ");
         }
