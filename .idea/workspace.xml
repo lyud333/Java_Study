@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="cc46d850-a26e-465d-842a-d3787b691cb5" name="변경" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javaExam/problem1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaExam/problem1/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +99,7 @@
     "애플리케이션.Ifexample3.executor": "Run",
     "애플리케이션.ImplicitCOnversion2.executor": "Run",
     "애플리케이션.ImplicitConversion1.executor": "Run",
-    "애플리케이션.JavaExam.Main.executor": "Debug",
+    "애플리케이션.JavaExam.Main.executor": "Run",
     "애플리케이션.LoopEx4.executor": "Run",
     "애플리케이션.LoopEx5.executor": "Run",
     "애플리케이션.LoopEx6.executor": "Run",
@@ -164,6 +165,7 @@
     "애플리케이션.Variable1.executor": "Run",
     "애플리케이션.While.executor": "Run",
     "애플리케이션.WhileEx2.executor": "Run",
+    "애플리케이션.javaExam.problem1.Main.executor": "Debug",
     "애플리케이션.loopEs2.executor": "Run",
     "애플리케이션.loopEx1.executor": "Run",
     "애플리케이션.loopEx3.executor": "Run",
@@ -176,7 +178,7 @@
       <recent name="stream.inputStream" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.JavaExam.Main">
+  <component name="RunManager" selected="애플리케이션.javaExam.problem1.Main">
     <configuration name="Constant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter2.Constant" />
       <module name="Java_beginner" />
@@ -229,12 +231,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VarAssignment4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter2.VarAssignment4" />
+    <configuration name="javaExam.problem1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaExam.problem1.Main" />
       <module name="Java_beginner" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter2.*" />
+          <option name="PATTERN" value="javaExam.problem1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -244,11 +246,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.javaExam.problem1.Main" />
         <item itemvalue="애플리케이션.JavaExam.Main" />
         <item itemvalue="애플리케이션.Main" />
         <item itemvalue="애플리케이션.Constant" />
         <item itemvalue="애플리케이션.ThisExample" />
-        <item itemvalue="애플리케이션.VarAssignment4" />
       </list>
     </recent_temporary>
   </component>
@@ -283,7 +285,7 @@
       <workItem from="1792767285408" duration="1449000" />
       <workItem from="1792905551112" duration="4968000" />
       <workItem from="1793066903664" duration="4613000" />
-      <workItem from="1793071710654" duration="7208000" />
+      <workItem from="1793071710654" duration="9717000" />
     </task>
     <servers />
   </component>
