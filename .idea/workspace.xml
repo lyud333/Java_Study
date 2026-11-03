@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc46d850-a26e-465d-842a-d3787b691cb5" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/src/inheritance/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inheritance/CustomerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inheritance/VIPCustomer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaExam/problem1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaExam/problem1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javaExam 2/problem10/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaExam2/problem10/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javaExam 2/problem11/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaExam2/problem11/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javaExam 2/problem12/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaExam2/problem12/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javaExam 2/problem8/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaExam2/problem8/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javaExam 2/problem9/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaExam2/problem9/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,6 +90,7 @@
     "애플리케이션.Constant.executor": "Run",
     "애플리케이션.ContinueEx1.executor": "Run",
     "애플리케이션.Customer.executor": "Run",
+    "애플리케이션.CustomerTest.executor": "Run",
     "애플리케이션.Dogtest.executor": "Run",
     "애플리케이션.DoubleEx1.executor": "Run",
     "애플리케이션.ExplicitConversion1.executor": "Run",
@@ -166,6 +174,12 @@
     "애플리케이션.While.executor": "Run",
     "애플리케이션.WhileEx2.executor": "Run",
     "애플리케이션.javaExam.problem1.Main.executor": "Debug",
+    "애플리케이션.javaExam.problem8.Main.executor": "Debug",
+    "애플리케이션.javaExam.problem9.Main.executor": "Run",
+    "애플리케이션.javaExam2.problem10.Main.executor": "Run",
+    "애플리케이션.javaExam2.problem12.Main.executor": "Run",
+    "애플리케이션.javaExam2.problem8.Main.executor": "Run",
+    "애플리케이션.javaExam2.problem9.Main.executor": "Run",
     "애플리케이션.loopEs2.executor": "Run",
     "애플리케이션.loopEx1.executor": "Run",
     "애플리케이션.loopEx3.executor": "Run",
@@ -178,26 +192,13 @@
       <recent name="stream.inputStream" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.javaExam.problem1.Main">
-    <configuration name="Constant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter2.Constant" />
+  <component name="RunManager" selected="애플리케이션.CustomerTest">
+    <configuration name="CustomerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inheritance.CustomerTest" />
       <module name="Java_beginner" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="JavaExam.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaExam.Main" />
-      <module name="Java_beginner" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JavaExam.*" />
+          <option name="PATTERN" value="inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -206,11 +207,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="miugo.class1025.problem7.Main" />
+      <option name="MAIN_CLASS_NAME" value="javaExam2.problem11.Main" />
       <module name="Java_beginner" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="miugo.class1025.problem7.*" />
+          <option name="PATTERN" value="javaExam2.problem11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -218,12 +219,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThisExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="thisdemo.ThisExample" />
+    <configuration name="javaExam2.problem12.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaExam2.problem12.Main" />
       <module name="Java_beginner" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="thisdemo.*" />
+          <option name="PATTERN" value="javaExam2.problem12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -231,12 +232,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="javaExam.problem1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaExam.problem1.Main" />
+    <configuration name="javaExam2.problem9.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaExam2.problem9.Main" />
       <module name="Java_beginner" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaExam.problem1.*" />
+          <option name="PATTERN" value="javaExam2.problem9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="javaExam.problem9.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaExam.problem9.Main" />
+      <module name="Java_beginner" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaExam.problem9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -246,11 +260,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.javaExam.problem1.Main" />
-        <item itemvalue="애플리케이션.JavaExam.Main" />
+        <item itemvalue="애플리케이션.CustomerTest" />
+        <item itemvalue="애플리케이션.javaExam2.problem12.Main" />
         <item itemvalue="애플리케이션.Main" />
-        <item itemvalue="애플리케이션.Constant" />
-        <item itemvalue="애플리케이션.ThisExample" />
+        <item itemvalue="애플리케이션.javaExam2.problem9.Main" />
+        <item itemvalue="애플리케이션.javaExam.problem9.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -285,7 +299,9 @@
       <workItem from="1792767285408" duration="1449000" />
       <workItem from="1792905551112" duration="4968000" />
       <workItem from="1793066903664" duration="4613000" />
-      <workItem from="1793071710654" duration="9717000" />
+      <workItem from="1793071710654" duration="42910000" />
+      <workItem from="1793630076621" duration="5310000" />
+      <workItem from="1793674763880" duration="2036000" />
     </task>
     <servers />
   </component>
@@ -300,10 +316,15 @@
           <line>2</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/javaExam2/problem8/Main.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/stream/ioTest/IOex4.java</url>
           <line>5</line>
-          <properties class="stream.ioTest.IOex4">
+          <properties class="stream.ioTest.IOex4" method="main">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
