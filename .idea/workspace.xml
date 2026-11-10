@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc46d850-a26e-465d-842a-d3787b691cb5" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/pokemon/Api.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pokemon/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inheritance/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inheritance/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inheritance/CustomerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inheritance/CustomerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inheritance/VIPCustomer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inheritance/VIPCustomer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -187,7 +188,7 @@
       <recent name="stream.inputStream" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.pokemon.Main">
+  <component name="RunManager" selected="애플리케이션.CustomerTest">
     <configuration name="CustomerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="inheritance.CustomerTest" />
       <module name="Java_beginner" />
@@ -255,8 +256,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.pokemon.Main" />
         <item itemvalue="애플리케이션.CustomerTest" />
+        <item itemvalue="애플리케이션.pokemon.Main" />
         <item itemvalue="애플리케이션.javaExam2.problem12.Main" />
         <item itemvalue="애플리케이션.Main" />
         <item itemvalue="애플리케이션.javaExam2.problem9.Main" />
@@ -296,7 +297,7 @@
       <workItem from="1793066903664" duration="4613000" />
       <workItem from="1793071710654" duration="42910000" />
       <workItem from="1793630076621" duration="5310000" />
-      <workItem from="1793674763880" duration="5348000" />
+      <workItem from="1793674763880" duration="7920000" />
     </task>
     <servers />
   </component>
@@ -321,6 +322,11 @@
           <line>6</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/inheritance/Customer.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/stream/ioTest/IOex4.java</url>
           <line>5</line>
@@ -329,6 +335,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/inheritance/Customer.java</url>
+          <line>9</line>
+          <properties class="inheritance.Customer" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

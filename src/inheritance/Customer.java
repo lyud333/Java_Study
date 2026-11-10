@@ -13,6 +13,15 @@ public class Customer {
         System.out.println("상위 클래스 Customer() 생성자 호출");
 
     }
+
+    public Customer(int customerID,String customerName) {
+        this.customerID= customerID;
+        this.customerName = customerName;
+        this.customerGrade= "SILVER";
+        this.bonusRatio = 0.01;
+        System.out.println("싱위 클래스 Customer(int, String) 생성자 호출");
+    }
+
     public int calcPrice(int price){
         bonusPoint+=price*bonusRatio;
         return price;
