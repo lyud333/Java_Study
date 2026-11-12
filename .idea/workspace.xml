@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc46d850-a26e-465d-842a-d3787b691cb5" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/src/inheritance/CustomerTest2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/inheritance/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inheritance/Customer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/inheritance/CustomerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inheritance/CustomerTest.java" afterDir="false" />
@@ -297,7 +298,7 @@
       <workItem from="1793066903664" duration="4613000" />
       <workItem from="1793071710654" duration="42910000" />
       <workItem from="1793630076621" duration="5310000" />
-      <workItem from="1793674763880" duration="7920000" />
+      <workItem from="1793674763880" duration="10653000" />
     </task>
     <servers />
   </component>
@@ -326,6 +327,11 @@
           <url>file://$PROJECT_DIR$/src/inheritance/Customer.java</url>
           <line>2</line>
           <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/inheritance/VIPCustomer.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/stream/ioTest/IOex4.java</url>

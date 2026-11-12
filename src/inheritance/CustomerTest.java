@@ -17,6 +17,10 @@ public class CustomerTest {
         System.out.println();
         VIPCustomer customerJang = new VIPCustomer(10020,"장보고",1101);
         customerJang.bonusPoint = 20000;
-        System.out.println(customerJang.showCustomerInfo());
+//        System.out.println(customerJang.showCustomerInfo());
+        System.out.println(customerJang.showVIPInfo());
+
+
     }
+
 }
